@@ -1,0 +1,3 @@
+com\example\demowardeploynew\ServletInitializer.class
+com\example\demowardeploynew\DemoWarDeployNewApplication.class
+com\example\demowardeploynew\controller\NewController.class
